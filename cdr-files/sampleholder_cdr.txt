@@ -1,0 +1,6 @@
+2025-07-17 10:00:00|1|2|3|4|digits1|5|6|7|8|digits2|SC123|9|10|digits3|11|12|digits4|13|14|msisdn123|15|16|digits5|imsi456|Active|TypeA|2025-07-17 10:00:00|1001|2002|3003|*123#|record1
+2025-07-17 10:01:00|11|22|33|44|digitsA|55|66|77|88|digitsB|SC456|99|101|digitsC|111|121|digitsD|131|141|msisdnABC|151|161|digitsE|imsi789|Completed|TypeB|2025-07-17 10:01:00|1101|1202|1303|*456#|record2
+2025-07-17 10:02:00|21|32|43|54|digitsX|65|76|87|98|digitsY|SC789|109|120|digitsZ|131|142|digitsW|153|164|msisdnXYZ|175|186|digitsR|imsi321|Failed|TypeC|2025-07-17 10:02:00|2101|2202|2303|*789#|record3
+2025-07-17 10:03:00|31|42|53|64|digitsM|75|86|97|108|digitsN|SC012|119|130|digitsO|141|152|digitsP|163|174|msisdn456|185|196|digitsQ|imsi654|Queued|TypeD|2025-07-17 10:03:00|3101|3202|3303|*012#|record4
+2025-07-17 10:04:00|41|52|63|74|digitsL|85|96|107|118|digitsK|SC345|129|140|digitsJ|151|162|digitsI|173|184|msisdn789|195|206|digitsH|imsi987|Active|TypeE|2025-07-17 10:04:00|4101|4202|4303|*345#|record5
+2025-07-17 10:05:00|51|62|73|84|digitsF|95|106|117|128|digitsG|SC678|139|150|digitsH|161|172|digitsI|183|194|msisdn101|205|216|digitsJ|imsi159|Error|TypeF|2025-07-17 10:05:00|5101|5202|5303|*678#|record6
